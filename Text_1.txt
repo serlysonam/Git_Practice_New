@@ -1,1 +1,2 @@
+this is the second line commiting from local or terminal.
 This is my new text file.
