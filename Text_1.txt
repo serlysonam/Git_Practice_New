@@ -1,2 +1,3 @@
+this is my third statement after the tokens have been added in the settings.
 this is the second line commiting from local or terminal.
 This is my new text file.
