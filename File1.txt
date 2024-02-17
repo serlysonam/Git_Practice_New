@@ -1,2 +1,6 @@
+new msg
+<<<<<<< HEAD
 my name is serly sonam.
+=======
+>>>>>>> parent of 1a0856b (Commit 1)
 this is a sample text file for file1.

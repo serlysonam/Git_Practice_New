@@ -1,3 +1,6 @@
+<<<<<<< HEAD
  address
 phone
 my address and phone is mentioned below.
+=======
+>>>>>>> parent of 1a0856b (Commit 1)
